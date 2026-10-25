@@ -1,6 +1,6 @@
 # UI Showcase
 
-Live frontend / design-engineering work by [Sumit Gajjar](https://github.com/smg99) — hospitality and marketing sites you can open and click.
+Live frontend / design-engineering work by [Sumit G](https://github.com/smg99) — hospitality and marketing sites you can open and click.
 
 **Portfolio:** [smg99.vercel.app](https://smg99.vercel.app/) · **Websites index:** [smg99.vercel.app/websites.html](https://smg99.vercel.app/websites.html)
 
@@ -39,4 +39,4 @@ Live frontend / design-engineering work by [Sumit Gajjar](https://github.com/smg
 
 - Portfolio: https://smg99.vercel.app/
 - X: [@thecalmengineer](https://x.com/thecalmengineer)
-- Email: sumitgajjar9@gmail.com (roles) · sumitg3767@gmail.com (freelance UI)
+- Email: sumitg3767@gmail.com
